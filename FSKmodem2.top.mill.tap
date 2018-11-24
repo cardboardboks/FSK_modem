@@ -1,0 +1,52 @@
+(.../pcb-gcode.ulp)
+(Copyright 2005 - 2012 by John Johnson)
+(See readme.txt for licensing terms.)
+(This file generated from the board:)
+(.../GIT/Eagle/FSK_modem/FSKmodem2.brd)
+(Current profile is .../profiles/mach.pp  )
+(This file generated 25/11/2018 12:45 PM)
+(Settings from pcb-machine.h)
+(  Tool Size)
+(0.1600  )
+(Z Axis Settings)
+(  High     Up        Down     Drill)
+(12.7000 	2.5400  	-0.1500 	-1.0000 )
+(spindle on time = 10.0000)
+(milling depth = -2.0000)
+(text depth = -0.1270)
+(tool change at 0.0000  0.0000  50.0000 )
+(feed rate xy = F250   )
+(feed rate z  = F50    )
+(Settings from pcb-defaults.h)
+(isolate min = 0.0254)
+(isolate max = 0.5080)
+(isolate step = 0.0900)
+(Generated top outlines, top drill, bottom outlines, bottom drill, )
+(Unit of measure: mm)
+(Metric Mode)
+G21
+(Absolute Coordinates)
+G90
+G00 X0.0000  Y0.0000  
+M03
+G04 P10.000000
+G00 Z2.5400  
+G00 X-35.4584 Y16.7766 
+G01 Z-2.0000 F50    
+G01 X-35.4584 Y16.7766 F250   
+G01 X-35.9356 Y16.7741 
+G01 X-37.3252 Y15.3772 
+G01 X-37.3252 Y1.1302  
+G01 X-35.8616 Y-0.3334 
+G01 X-33.6042 Y-0.3334 
+G01 X-32.3850 Y-1.4858 
+G01 X-2.7558 Y-1.4858 
+G01 X-1.7146 Y-0.4446 
+G01 X-1.7146 Y16.9546 
+G01 X-2.7304 Y17.9704 
+G01 X-32.4104 Y17.9704 
+G01 X-33.6042 Y16.7766 
+G01 X-35.4584 Y16.7766 
+G00 Z12.7000 
+M05
+M02
