@@ -54,7 +54,7 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
@@ -168,6 +168,20 @@
 <wire x1="-3.2004" y1="-0.6604" x2="-2.5146" y2="0.0254" width="0.2032" layer="20"/>
 <wire x1="-2.5146" y1="0.0254" x2="-2.4892" y2="16.4592" width="0.2032" layer="20"/>
 <wire x1="-2.4892" y1="16.4592" x2="-3.2004" y2="17.1704" width="0.2032" layer="20"/>
+<wire x1="-35.5854" y1="15.8496" x2="-36.5252" y2="14.9098" width="0.16" layer="46"/>
+<wire x1="-36.5252" y1="14.9098" x2="-36.5252" y2="1.6002" width="0.16" layer="46"/>
+<wire x1="-36.5252" y1="1.6002" x2="-35.4584" y2="0.5334" width="0.16" layer="46"/>
+<wire x1="-35.4584" y1="0.5334" x2="-33.6042" y2="0.5334" width="0.16" layer="46"/>
+<wire x1="-33.6042" y1="0.5334" x2="-32.385" y2="-0.6858" width="0.16" layer="46"/>
+<wire x1="-32.385" y1="-0.6858" x2="-3.2258" y2="-0.6858" width="0.16" layer="46"/>
+<wire x1="-3.2258" y1="-0.6858" x2="-2.5146" y2="0.0254" width="0.16" layer="46"/>
+<wire x1="-2.5146" y1="0.0254" x2="-2.5146" y2="16.4846" width="0.16" layer="46"/>
+<wire x1="-2.5146" y1="16.4846" x2="-3.2004" y2="17.1704" width="0.16" layer="46"/>
+<wire x1="-3.2004" y1="17.1704" x2="-32.4104" y2="17.1704" width="0.16" layer="46"/>
+<wire x1="-32.4104" y1="17.1704" x2="-33.6042" y2="15.9766" width="0.16" layer="46"/>
+<wire x1="-33.6042" y1="15.9766" x2="-35.4584" y2="15.9766" width="0.16" layer="46"/>
+<wire x1="-35.4584" y1="15.9766" x2="-35.56" y2="15.875" width="0.16" layer="46"/>
+<wire x1="-35.5854" y1="15.8496" x2="-35.56" y2="15.875" width="0.16" layer="46"/>
 </plain>
 <libraries>
 <library name="tcm3105">
